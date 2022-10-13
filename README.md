@@ -7,8 +7,11 @@
   
 3) in data folder all generated data can be found
    experimental output consists of 3 files per algorithm:
+   
       -"...._results.csv" :  fitness values over the evolutionary process. For the MO algorithm fitness and number of wins is exported per generation.
+      
       -"...._hof.csv" : best solution of each of the 10 independent experimental runs
+      
       -"...._final.csv" : mean gain and number of wins  of best soltion for each of the 10 independent experimental runs
      
 4) Finally plotted results can be found in the 'plot' folder, along with code to replicate them from the data
