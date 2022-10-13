@@ -2,7 +2,7 @@
 
 1) files "..._optimization.py" were run first to define the best centroid and sigma values to be used, by gridsearch
 
-2)file "assignment2_experiment_classic.py" has the experiment using SO-CMA strategy
+2) file "assignment2_experiment_classic.py" has the experiment using SO-CMA strategy
   file "assignment2_experiment_advanced.py" has the experiment using the MO-CMA agorithm.
   
 3) in data folder all generated data can be found
