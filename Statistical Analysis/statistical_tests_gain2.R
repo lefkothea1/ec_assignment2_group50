@@ -64,10 +64,10 @@ str(dat)
 
 ## tests:
 
-wilcox.test(c2gain, a2gain)
-wilcox.test(c3gain, a3gain)
-wilcox.test(c2gain, c3gain)
-wilcox.test(a2gain, a3gain)
+t.test(c2gain, a2gain)
+t.test(c3gain, a3gain)
+t.test(c2gain, c3gain)
+t.test(a2gain, a3gain)
 
 
 ## table of descriptive statistics
