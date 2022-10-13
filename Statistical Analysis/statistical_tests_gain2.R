@@ -1,4 +1,4 @@
-### Statistical Analysis
+### Statistical Analysis Gain (Group A x Group A, CMA x MO-CMA)
 
 ## read in data
 
