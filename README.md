@@ -1,5 +1,7 @@
 # This is the repository of group 50 for Evolutionary Computing 2nd assignment: evolving a generalist agent
 
+0) 50.txt contains the very best solution for the competition. 50.pdf contains the report.
+
 1) files "..._optimization.py" were run first to define the best centroid and sigma values to be used, by structured gridsearch
 
 2) file "assignment2_experiment_classic.py" has the experiment using SO-CMA evolutionary strategy
